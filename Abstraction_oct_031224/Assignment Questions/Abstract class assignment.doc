@@ -1,0 +1,16 @@
+1) Write an abstract class shape which having abstract method Area () and display. write a class circle which inherit abstract class shape and override method Area () and display (). Use circle class and display area of circle
+
+2) Create an abstract class Vehicle with abstract methods move() and stop(). Create an interface Drivable with a method drive ().
+Make Vehicle implement Drivable and provide a default implementation for drive () in Vehicle. Create subclasses Car and Truck that extend Vehicle.
+
+3)Create an abstract class Shape with abstract methods getArea () and getPerimeter (). Create subclasses Circle, Rectangle, and Triangle that extend Shape and implement these methods.
+
+4) Create an abstract class Employee with abstract methods calculateSalary() and displayInfo().
+Create subclasses FullTimeEmployee, PartTimeEmployee, and ContractEmployee that extend Employee and implement these methods.
+
+5) Create an abstract class BankAccount with abstract methods deposit() and withdraw().
+Create subclasses SavingsAccount and CheckingAccount that extend BankAccount and implement these methods.
+
+
+
+
